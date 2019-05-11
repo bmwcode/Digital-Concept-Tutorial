@@ -1,4 +1,4 @@
-Scope: Remove vocals an audio file.
+Scope: Remove vocals from an audio file.
 
 Instructions: With a file open in Audacity, the user would first click on the Effect 
                tab then scroll to "Vocal Reduction and Isolation" and select this option. 
