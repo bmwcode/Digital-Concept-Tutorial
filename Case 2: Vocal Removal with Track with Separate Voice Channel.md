@@ -10,3 +10,7 @@ Instructions: With an audio file open in the Audacity software,
               the vocals and an additional without vocals. In order to 
               delete the channel without vocals, click on the "X" to the 
               left of the downward pointing arrow. 
+              
+![Case 2 Image 1](Images/Case2image1.png)
+
+![Case 2 Image 2](Images/Case2image2.png)
